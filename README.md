@@ -1,6 +1,6 @@
 # Hi there, I'm Priyanka Vadivel 👋
 
-Thanks for stopping by! I'm a graduate student at **Northeastern University (MS Information Systems)** and a former **Data Analyst at Bank of New York**, where I built enterprise data pipelines, analyzed 1M+ transaction records, and automated compliance workflows. I'm passionate about **Machine Learning, Data Engineering and AI-powered analytics** — turning complex data into decisions that matter.
+Thanks for stopping by! I'm a graduate student at **Northeastern University (MS Information Systems)** and a former **Data Analyst at Bank of New York**, where I built enterprise data pipelines, analyzed 1M+ transaction records, and automated compliance workflows. I'm passionate about **Machine Learning, Data Engineering and AI-powered analytics** - turning complex data into decisions that matter.
 
 ---
 
