@@ -4,9 +4,32 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🏦 [QuantRisk Studio - Enterprise Risk & Trade Lifecycle Platform](https://github.com/PriyankaVadivel12/QuantRiskStudio)
+
+### [Drug Therapeutic Class Prediction - NLP Intelligence](https://github.com/PriyankaVadivel12/Predicting-Drug-Therapeutic-Class)
+> Python | Scikit-learn | TF-IDF | Random Forest | Streamlit
+
+- Built a classification system to predict therapeutic classes of **192K+ pharmaceutical drugs** across 22 categories
+- Achieved **99.79% weighted F1-score** using Random Forest with TF-IDF, validated through 5-fold stratified cross-validation
+- Deployed a complete ML pipeline with tokenization, lemmatization, and domain-specific stopword removal as an interactive Streamlit app
+
+`Python` `Scikit-learn` `NLP` `Random Forest` `Streamlit`
+
+---
+
+### [WA State Climate Accountability Knowledge Graph](https://github.com/PriyankaVadivel12/WA-State-Climate-Accountability-Knowledge-Graph)
+> Neo4j | LangChain | RAG | Streamlit | Python
+
+- Built a Knowledge Graph integrating 6 government datasets with **4,800+ nodes and 5,000+ relationships** in Neo4j, uncovering emissions trends across 101+ census tracts
+- Developed a **template-based RAG pipeline** with 377 cached embeddings and geospatial resolution using Shapely
+- Deployed a Streamlit UI enabling natural language queries across emissions, health disparities, and enforcement gap analysis
+
+`Neo4j` `LangChain` `RAG` `Streamlit` `Geospatial`
+
+---
+
+### [QuantRisk Studio - Enterprise Risk & Trade Lifecycle Platform](https://github.com/PriyankaVadivel12/QuantRiskStudio)
 > Java | PostgreSQL | JDBC | FlatLaf | Faker | Enterprise Architecture
 
 - Architected a full **Portfolio -> Risk -> Trade -> Audit -> Compliance** lifecycle engine across multiple enterprises and user roles
@@ -18,29 +41,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-### 🌍 [WA State Climate Accountability Knowledge Graph](https://github.com/PriyankaVadivel12/WA-State-Climate-Accountability-Knowledge-Graph)
-> Neo4j | LangChain | RAG | Streamlit | Python
-
-- Built a Knowledge Graph integrating 6 government datasets with **4,800+ nodes and 5,000+ relationships** in Neo4j, uncovering emissions trends across 101+ census tracts
-- Developed a **template-based RAG pipeline** with 377 cached embeddings and geospatial resolution using Shapely
-- Deployed a Streamlit UI enabling natural language queries across emissions, health disparities, and enforcement gap analysis
-
-`Neo4j` `LangChain` `RAG` `Streamlit` `Geospatial`
-
----
-
-### 💊 [Drug Therapeutic Class Prediction - NLP Intelligence](https://github.com/PriyankaVadivel12/Predicting-Drug-Therapeutic-Class)
-> Python | Scikit-learn | TF-IDF | Random Forest | Streamlit
-
-- Built a classification system to predict therapeutic classes of **192K+ pharmaceutical drugs** across 22 categories
-- Achieved **99.79% weighted F1-score** using Random Forest with TF-IDF, validated through 5-fold stratified cross-validation
-- Deployed a complete ML pipeline with tokenization, lemmatization, and domain-specific stopword removal as an interactive Streamlit app
-
-`Python` `Scikit-learn` `NLP` `Random Forest` `Streamlit`
-
----
-
-### 🏥 [Healthcare Survey BI Dashboard](https://github.com/PriyankaVadivel12/Healthcare-Survey-BI-Dashboard) 
+### [Healthcare Survey BI Dashboard](https://github.com/PriyankaVadivel12/Healthcare-Survey-BI-Dashboard) 
 > Power BI | DAX | Power Query | Data Modeling
 
 - Developed an interactive Power BI dashboard analyzing **250+ healthcare accreditation survey findings** across 10 organizations
@@ -51,7 +52,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-### 🚉 [Commuter Reservation System - Booking & Analytics](https://github.com/PriyankaVadivel12/CommuterReservationSystem_Group10)
+### [Commuter Reservation System - Booking & Analytics](https://github.com/PriyankaVadivel12/CommuterReservationSystem_Group10)
 > Oracle SQL | PL/SQL | Data Warehousing
 
 - Modernized a relational database with **10+ interconnected tables** and 15+ analytical queries tracking 500+ daily transactions
@@ -62,7 +63,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-### 🤖 [AI Support for Prompt Identification in Autistic Children](https://github.com/PriyankaVadivel12/AI-Support-for-Prompt-Identification-in-Autistic-Children-) *(IEEE Published)*
+### [AI Support for Prompt Identification in Autistic Children](https://github.com/PriyankaVadivel12/AI-Support-for-Prompt-Identification-in-Autistic-Children-) *(IEEE Published)*
 > Python | GANs | RNNs | Deep Learning
 
 - Formulated a **hybrid GAN-RNN framework** to reconstruct full-word audio from fragmented speech inputs with **92% accuracy**
@@ -73,7 +74,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-## 💻 Technologies & Tools
+## Technologies & Tools
 
 | Category | Stack |
 |---|---|
@@ -86,7 +87,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-## 🏢 Professional Experience
+## Professional Experience
 
 **Bank of New York** — Data Analyst *(Jul 2024 – Jul 2025)*
 - Built end-to-end data pipelines on enterprise Data Lake using **Informatica & MIH Harness**, reducing reporting latency by 25%
@@ -96,37 +97,37 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-## 📚 Research & Publications
+## Research & Publications
 
 **AI Support for Prompt Identification in Autistic Children** | *IEEE Conference, May 2024*
 Hybrid GAN-RNN deep learning framework for speech reconstruction supporting language development in children with autism spectrum disorder.
 
 ---
 
-## 🎓 Education
+## Education
 
-🎓 **Northeastern University** - MS Information Systems *(Aug 2024 – May 2027)*
+**Northeastern University** - MS Information Systems *(Aug 2024 – May 2027)*
 Coursework: Database Design & Management, Large Language Models, Graph Databases, Data Science Tools & Methods 
 
-🎓 **Rajalakshmi Institute of Technology** - BE Computer Science *(May 2024)*
+**Rajalakshmi Institute of Technology** - BE Computer Science *(May 2024)*
 Coursework: Data Analytics, AI, Machine Learning, Cloud Computing, Statistical Methods, Computer Architecture
 
 ---
 
-## 📊 What I'm Working On
+## What I'm Working On
 
-- 🏗️ Expanding **QuantRisk Studio** with ML-based anomaly detection and real-time risk dashboards
-- 🤖 Exploring advanced **LLM and Knowledge Graph** applications for enterprise data systems
-- 📖 Deepening expertise in **MLOps**, data pipeline orchestration, and GenAI tooling
-- 🌱 Building out an open portfolio of production-quality data and ML projects
+- Expanding **QuantRisk Studio** with ML-based anomaly detection and real-time risk dashboards
+- Exploring advanced **LLM and Knowledge Graph** applications for enterprise data systems
+- Deepening expertise in **MLOps**, data pipeline orchestration, and GenAI tooling
+- Building out an open portfolio of production-quality data and ML projects
 
 ---
 
-## 🤝 Let's Connect!
+## Let's Connect!
 
-📧 vadivel.p@northeastern.edu
-💼 [linkedin.com/in/priyankavadivel](https://linkedin.com/in/priyankavadivel)
-🐱 [github.com/PriyankaVadivel12](https://github.com/PriyankaVadivel12)
+vadivel.p@northeastern.edu
+[linkedin.com/in/priyankavadivel](https://linkedin.com/in/priyankavadivel)
+[github.com/PriyankaVadivel12](https://github.com/PriyankaVadivel12)
 
 If you want to collaborate on **data engineering, machine learning, or AI-powered analytics**, feel free to reach out!
 
