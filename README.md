@@ -1,15 +1,15 @@
 # Hi there, I'm Priyanka Vadivel 👋
 
-Thanks for stopping by! I'm a graduate student at **Northeastern University (MS Information Systems)** and a former **Data Analyst at Bank of New York**, where I built enterprise data pipelines, analyzed 1M+ transaction records, and automated compliance workflows. I'm passionate about **Machine Learning, Data Engineering and AI-powered analytics** - turning complex data into decisions that matter.
+Thanks for stopping by! I'm a graduate student at **Northeastern University (MS Information Systems)** and a former **Data Analyst at Bank of New York**, where I built enterprise data pipelines, analyzed 1M+ transaction records, and automated compliance workflows. I'm passionate about **Data Engineering, Machine Learning, and AI-powered analytics** — turning complex data into decisions that matter.
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🏦 QuantRisk Studio — Enterprise Risk & Trade Lifecycle Platform
+### 🏦 [QuantRisk Studio](https://github.com/PriyankaVadivel12/QuantRiskStudio) — Enterprise Risk & Trade Lifecycle Platform
 > Java | PostgreSQL | JDBC | FlatLaf | Faker | Enterprise Architecture
 
-- Architected a full **Portfolio → Risk → Trade → Audit → Compliance** lifecycle engine across multiple enterprises and user roles
+- Architected a full **Portfolio -> Risk -> Trade -> Audit -> Compliance** lifecycle engine across multiple enterprises and user roles
 - Implemented **role-based authentication** with scoped dashboards for Portfolio Managers, Risk Analysts, Traders, Auditors, and Compliance Officers
 - Built an automated **rebalance suggestion engine** processing 10,000+ simulated market scenarios with full PostgreSQL audit trail
 - Engineered **Faker-driven demo data generation** for realistic enterprise simulation and presentation-ready datasets
@@ -18,7 +18,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-### 🌍 WA State Climate Accountability Knowledge Graph
+### 🌍 [WA State Climate Accountability Knowledge Graph](https://github.com/PriyankaVadivel12/WA-State-Climate-Accountability-Knowledge-Graph)
 > Neo4j | LangChain | RAG | Streamlit | Python
 
 - Built a Knowledge Graph integrating 6 government datasets with **4,800+ nodes and 5,000+ relationships** in Neo4j, uncovering emissions trends across 101+ census tracts
@@ -29,7 +29,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-### 💊 Drug Therapeutic Class Prediction — NLP Intelligence
+### 💊 [Drug Therapeutic Class Prediction](https://github.com/PriyankaVadivel12/Predicting-Drug-Therapeutic-Class) — NLP Intelligence
 > Python | Scikit-learn | TF-IDF | Random Forest | Streamlit
 
 - Built a classification system to predict therapeutic classes of **192K+ pharmaceutical drugs** across 22 categories
@@ -40,7 +40,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-### 🏥 Healthcare Survey BI Dashboard
+### 🏥 [Healthcare Survey BI Dashboard](https://github.com/PriyankaVadivel12/Healthcare-Survey-BI-Dashboard) — MedLaunch Analytics
 > Power BI | DAX | Power Query | Data Modeling
 
 - Developed an interactive Power BI dashboard analyzing **250+ healthcare accreditation survey findings** across 10 organizations
@@ -51,7 +51,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-### 🚉 Commuter Reservation System — Booking & Analytics
+### 🚉 [Commuter Reservation System](https://github.com/PriyankaVadivel12/CommuterReservationSystem_Group10) - Booking & Analytics
 > Oracle SQL | PL/SQL | Data Warehousing
 
 - Modernized a relational database with **10+ interconnected tables** and 15+ analytical queries tracking 500+ daily transactions
@@ -62,7 +62,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-### 🤖 AI Support for Prompt Identification in Autistic Children *(IEEE Published)*
+### 🤖 [AI Support for Prompt Identification in Autistic Children](https://github.com/PriyankaVadivel12/AI-Support-for-Prompt-Identification-in-Autistic-Children-) *(IEEE Published)*
 > Python | GANs | RNNs | Deep Learning
 
 - Formulated a **hybrid GAN-RNN framework** to reconstruct full-word audio from fragmented speech inputs with **92% accuracy**
@@ -88,7 +88,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ## 🏢 Professional Experience
 
-**Bank of New York** — Data Analyst *(Jan 2024 – Jul 2025)*
+**Bank of New York** — Data Analyst *(Jul 2024 – Jul 2025)*
 - Built end-to-end data pipelines on enterprise Data Lake using **Informatica & MIH Harness**, reducing reporting latency by 25%
 - Analyzed **1M+ transaction records** via SQL & Python to detect risk patterns, remediating 95% of compliance gaps
 - Improved straight-through processing accuracy by 15% through data flow optimization and schema tuning
@@ -105,11 +105,11 @@ Hybrid GAN-RNN deep learning framework for speech reconstruction supporting lang
 
 ## 🎓 Education
 
-🎓 **Northeastern University** — MS Information Systems *(Aug 2024 – Dec 2027)*
-Coursework: Database Design & Management, Large Language Models, Graph Databases, Data Science
+🎓 **Northeastern University** — MS Information Systems *(Aug 2024 – May 2027)*
+Coursework: Database Design & Management, Large Language Models, Graph Databases, Data Science Tools & Methods 
 
 🎓 **Rajalakshmi Institute of Technology** — BE Computer Science *(May 2024)*
-Coursework: Data Analytics, AI, Machine Learning, Cloud Computing, Statistical Methods
+Coursework: Data Analytics, AI, Machine Learning, Cloud Computing, Statistical Methods, Computer Architecture
 
 ---
 
@@ -125,11 +125,10 @@ Coursework: Data Analytics, AI, Machine Learning, Cloud Computing, Statistical M
 ## 🤝 Let's Connect!
 
 📧 vadivel.p@northeastern.edu
-📞 (857) 397-6390
 💼 [linkedin.com/in/priyankavadivel](https://linkedin.com/in/priyankavadivel)
 🐱 [github.com/PriyankaVadivel12](https://github.com/PriyankaVadivel12)
 
-If you want to collaborate on **Machine learning, data engineering or AI-powered analytics** — feel free to reach out!
+If you want to collaborate on **data engineering, machine learning, or AI-powered analytics**, feel free to reach out!
 
 ---
 
