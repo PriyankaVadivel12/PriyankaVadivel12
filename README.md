@@ -105,10 +105,10 @@ Hybrid GAN-RNN deep learning framework for speech reconstruction supporting lang
 
 ## 🎓 Education
 
-🎓 **Northeastern University** — MS Information Systems *(Aug 2024 – May 2027)*
+🎓 **Northeastern University** - MS Information Systems *(Aug 2024 – May 2027)*
 Coursework: Database Design & Management, Large Language Models, Graph Databases, Data Science Tools & Methods 
 
-🎓 **Rajalakshmi Institute of Technology** — BE Computer Science *(May 2024)*
+🎓 **Rajalakshmi Institute of Technology** - BE Computer Science *(May 2024)*
 Coursework: Data Analytics, AI, Machine Learning, Cloud Computing, Statistical Methods, Computer Architecture
 
 ---
