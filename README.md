@@ -1,6 +1,6 @@
 # Hi there, I'm Priyanka Vadivel 👋
 
-Thanks for stopping by! I'm a graduate student at **Northeastern University (MS Information Systems)** and a former **Data Analyst at Bank of New York**, where I built enterprise data pipelines, analyzed 1M+ transaction records, and automated compliance workflows. I'm passionate about **Data Engineering, Machine Learning, and AI-powered analytics** — turning complex data into decisions that matter.
+Thanks for stopping by! I'm a graduate student at **Northeastern University (MS Information Systems)** and a former **Data Analyst at Bank of New York**, where I built enterprise data pipelines, analyzed 1M+ transaction records, and automated compliance workflows. I'm passionate about **Machine Learning, Data Engineering and AI-powered analytics** — turning complex data into decisions that matter.
 
 ---
 
@@ -40,7 +40,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-### 🏥 MedLaunch — Healthcare Survey BI Dashboard
+### 🏥 Healthcare Survey BI Dashboard
 > Power BI | DAX | Power Query | Data Modeling
 
 - Developed an interactive Power BI dashboard analyzing **250+ healthcare accreditation survey findings** across 10 organizations
@@ -129,7 +129,7 @@ Coursework: Data Analytics, AI, Machine Learning, Cloud Computing, Statistical M
 💼 [linkedin.com/in/priyankavadivel](https://linkedin.com/in/priyankavadivel)
 🐱 [github.com/PriyankaVadivel12](https://github.com/PriyankaVadivel12)
 
-If you want to collaborate on **data engineering, machine learning, or AI-powered analytics** — feel free to reach out!
+If you want to collaborate on **Machine learning, data engineering or AI-powered analytics** — feel free to reach out!
 
 ---
 
