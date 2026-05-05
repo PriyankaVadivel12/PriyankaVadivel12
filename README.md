@@ -6,7 +6,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ## 🚀 Featured Projects
 
-### 🏦 [QuantRisk Studio](https://github.com/PriyankaVadivel12/QuantRiskStudio) — Enterprise Risk & Trade Lifecycle Platform
+### 🏦 [QuantRisk Studio](https://github.com/PriyankaVadivel12/QuantRiskStudio) - Enterprise Risk & Trade Lifecycle Platform
 > Java | PostgreSQL | JDBC | FlatLaf | Faker | Enterprise Architecture
 
 - Architected a full **Portfolio -> Risk -> Trade -> Audit -> Compliance** lifecycle engine across multiple enterprises and user roles
@@ -29,7 +29,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-### 💊 [Drug Therapeutic Class Prediction](https://github.com/PriyankaVadivel12/Predicting-Drug-Therapeutic-Class) — NLP Intelligence
+### 💊 [Drug Therapeutic Class Prediction](https://github.com/PriyankaVadivel12/Predicting-Drug-Therapeutic-Class) - NLP Intelligence
 > Python | Scikit-learn | TF-IDF | Random Forest | Streamlit
 
 - Built a classification system to predict therapeutic classes of **192K+ pharmaceutical drugs** across 22 categories
@@ -40,7 +40,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-### 🏥 [Healthcare Survey BI Dashboard](https://github.com/PriyankaVadivel12/Healthcare-Survey-BI-Dashboard) — MedLaunch Analytics
+### 🏥 [Healthcare Survey BI Dashboard](https://github.com/PriyankaVadivel12/Healthcare-Survey-BI-Dashboard) 
 > Power BI | DAX | Power Query | Data Modeling
 
 - Developed an interactive Power BI dashboard analyzing **250+ healthcare accreditation survey findings** across 10 organizations
