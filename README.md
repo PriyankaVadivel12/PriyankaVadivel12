@@ -6,7 +6,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ## 🚀 Featured Projects
 
-### 🏦 [QuantRisk Studio](https://github.com/PriyankaVadivel12/QuantRiskStudio) - Enterprise Risk & Trade Lifecycle Platform
+### 🏦 [QuantRisk Studio - Enterprise Risk & Trade Lifecycle Platform](https://github.com/PriyankaVadivel12/QuantRiskStudio)
 > Java | PostgreSQL | JDBC | FlatLaf | Faker | Enterprise Architecture
 
 - Architected a full **Portfolio -> Risk -> Trade -> Audit -> Compliance** lifecycle engine across multiple enterprises and user roles
@@ -29,7 +29,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-### 💊 [Drug Therapeutic Class Prediction](https://github.com/PriyankaVadivel12/Predicting-Drug-Therapeutic-Class) - NLP Intelligence
+### 💊 [Drug Therapeutic Class Prediction - NLP Intelligence](https://github.com/PriyankaVadivel12/Predicting-Drug-Therapeutic-Class)
 > Python | Scikit-learn | TF-IDF | Random Forest | Streamlit
 
 - Built a classification system to predict therapeutic classes of **192K+ pharmaceutical drugs** across 22 categories
@@ -51,7 +51,7 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ---
 
-### 🚉 [Commuter Reservation System](https://github.com/PriyankaVadivel12/CommuterReservationSystem_Group10) - Booking & Analytics
+### 🚉 [Commuter Reservation System - Booking & Analytics](https://github.com/PriyankaVadivel12/CommuterReservationSystem_Group10)
 > Oracle SQL | PL/SQL | Data Warehousing
 
 - Modernized a relational database with **10+ interconnected tables** and 15+ analytical queries tracking 500+ daily transactions
