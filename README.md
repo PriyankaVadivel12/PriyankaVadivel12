@@ -6,6 +6,20 @@ Thanks for stopping by! I'm a graduate student at **Northeastern University (MS 
 
 ## Featured Projects
 
+### [EarningsEdge — Financial Sentiment AI](https://github.com/PriyankaVadivel12/EarningsEdge)
+
+> Python | PyTorch | Hugging Face Transformers | DistilBERT | Fine-tuning | Groq API | Gradio
+
+- Fine-tuned a **66M-parameter DistilBERT** for financial sentiment classification, achieving **96.17% test accuracy** — within 1.5 points of **Llama 3.1 70B** (1,000× larger) at a fraction of the inference cost
+- Benchmarked against **VADER, FinBERT, and Llama 3.1 70B (zero-shot via Groq)** on the same held-out test set; revealed that the three high-performing models share **zero error overlap** — suggesting a majority-vote ensemble could approach 99%+ accuracy
+- Deployed live **Gradio demo on Hugging Face Spaces** comparing all four models in parallel; published model artifact to **Hugging Face Hub** for public use
+- Wrote up methodology, results, and engineering retrospective on Medium: [I Fine-Tuned a 66M-Parameter Model That Matched Llama 3.1 70B](https://medium.com/@priyankavadivelneu/i-fine-tuned-a-66m-parameter-model-that-matched-llama-3-1-70b-on-financial-sentiment-43c95eb5355a)
+
+**🚀 [Try the live demo](https://huggingface.co/spaces/PriyankaVadivel/earningsedge-demo)** · **🤗 [Model on Hub](https://huggingface.co/PriyankaVadivel/earningsedge-distilbert)**
+
+`Python` `PyTorch` `Transformers` `Fine-tuning` `NLP` `Gradio` `LLM`
+
+---
 
 ### [Drug Therapeutic Class Prediction - NLP Intelligence](https://github.com/PriyankaVadivel12/Predicting-Drug-Therapeutic-Class)
 > Python | Scikit-learn | TF-IDF | Random Forest | Streamlit
